@@ -1,5 +1,3 @@
-![Soccer Painters]
+# Soccer Painters
 
-# Website
-
-Made with ❤️ by [Ollie Thomas](https://olliethomas.co.uk)
+Made with ❤️ by [Ollie Thomas](https://olliethomas.co.uk) & Gabriel Daughtry	§
