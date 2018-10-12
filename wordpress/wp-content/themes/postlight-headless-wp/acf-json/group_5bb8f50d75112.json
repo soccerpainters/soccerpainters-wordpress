@@ -79,6 +79,22 @@
             "prepend": "",
             "append": "",
             "maxlength": ""
+        },
+        {
+            "key": "field_5bbfc18ee8ffb",
+            "label": "Image",
+            "name": "image",
+            "type": "url",
+            "instructions": "Paste Cloudinary image url here.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
         }
     ],
     "location": [
@@ -98,5 +114,5 @@
     "hide_on_screen": "",
     "active": 1,
     "description": "",
-    "modified": 1538848278
+    "modified": 1539334863
 }

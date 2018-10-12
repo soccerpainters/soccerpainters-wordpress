@@ -1,0 +1,40 @@
+{
+    "key": "group_5bc066d3b677b",
+    "title": "Articles",
+    "fields": [
+        {
+            "key": "field_5bc066fabf366",
+            "label": "Image",
+            "name": "image",
+            "type": "url",
+            "instructions": "Cloudinary Image Url",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "articles"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1539335956
+}
