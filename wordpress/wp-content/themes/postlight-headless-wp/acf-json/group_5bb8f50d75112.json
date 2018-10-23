@@ -3,6 +3,44 @@
     "title": "Match Report",
     "fields": [
         {
+            "key": "field_5bc79ba93c854",
+            "label": "Author",
+            "name": "author",
+            "type": "text",
+            "instructions": "Match Report Author",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "Author",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5bce3d8ffa63f",
+            "label": "Intro",
+            "name": "intro",
+            "type": "text",
+            "instructions": "Intro to the match report.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
             "key": "field_5bb8f529dc205",
             "label": "Home Team",
             "name": "home_team",
@@ -81,6 +119,25 @@
             "maxlength": ""
         },
         {
+            "key": "field_5bc79c709f45b",
+            "label": "Man of the match",
+            "name": "man_of_the_match",
+            "type": "text",
+            "instructions": "Man of the Match",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
             "key": "field_5bbfc18ee8ffb",
             "label": "Image",
             "name": "image",
@@ -114,5 +171,5 @@
     "hide_on_screen": "",
     "active": 1,
     "description": "",
-    "modified": 1539334863
+    "modified": 1540242872
 }

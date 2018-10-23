@@ -1,0 +1,59 @@
+{
+    "key": "group_5bc78e1819329",
+    "title": "Article",
+    "fields": [
+        {
+            "key": "field_5bc78e2dd5ec1",
+            "label": "Image",
+            "name": "image",
+            "type": "url",
+            "instructions": "Cloudinary Image url",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5bc78e49d5ec2",
+            "label": "Author",
+            "name": "author",
+            "type": "text",
+            "instructions": "Author of the article",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "article"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1539895601
+}
